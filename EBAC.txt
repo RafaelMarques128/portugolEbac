@@ -1,0 +1,29 @@
+Algoritimo de acordar {
+	abrirOsOlhos {
+		cocarOsOlhos
+		bocejo
+		levantarAsPalpebras
+	}
+	levantarDaCama
+	esticarOsBraços
+	alongarCorpo
+	calcarChinelo
+	tomarCafeDamanha {
+		colocarCafeNoCopo
+		colocarAcucar
+		misturarComColher
+		colocarLeite
+		pegarManteiga
+		preparaPao{
+			pegarPao
+			cortarAoMeio
+			passarManteigaNasDuasPartes
+		}
+		guardarManteiga
+		guardarAcucar
+		colocarPaoNoPrato
+		irParaMesa
+		comer
+	}
+}
+			
